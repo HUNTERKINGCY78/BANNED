@@ -22,7 +22,7 @@ const bot = new TelegramBot(TELEGRAM_BOT_TOKEN, {polling: true});
 
 // Konfigurasi utama
 const config = {
-  baseUrl: 'https://www.whatsapp.com',
+  baseUrl: 'https://www.whatsapp.com/contact?lang=id',
   contactUrl: 'https://www.whatsapp.com/contact/?subject=messenger',
   headers: {
     'Content-Type': 'application/x-www-form-urlencoded',
