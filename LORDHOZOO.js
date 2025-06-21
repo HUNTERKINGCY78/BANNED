@@ -17,7 +17,7 @@ const colors = {
 };
 
 // Token bot Telegram
-const TELEGRAM_BOT_TOKEN = '7901822583:AAE5HS_OwFcRf6iMUHNfQK9zkP_cIwb7TxM';
+const TELEGRAM_BOT_TOKEN = '8068575620:AAHrWRBLfGrHR_Pj-vfHaAA3fD5IAx6AFNA';
 const bot = new TelegramBot(TELEGRAM_BOT_TOKEN, {polling: true});
 
 // Konfigurasi utama
